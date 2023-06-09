@@ -14,9 +14,9 @@ As part of the predict, we are expected to expand on this base template; increas
 
 For this repository, we are only concerned with a single file:
 
-| File Name     | Description                       |
-| :------------ | :-------------------------------- |
-| `base_app.py` | Streamlit application definition. |
+| File Name                                                | Description   |
+| :------------------------------------------------------- | :------------ |
+| `Advanced_Classification\DN3_Classifiers_Notebook.ipynb` | Base Notebook |
 
 ## 2) Usage Instructions
 
