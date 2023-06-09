@@ -22,19 +22,16 @@ For this repository, we are only concerned with a single file:
 
 #### 2.1) Cloning a copy of this repo
 
-| :zap: WARNING :zap:                                                                                     |
-| :------------------------------------------------------------------------------------------------------ |
-| Do **NOT** _clone_ this repository. Instead follow the instructions in this section to _fork_ the repo. |
+| :zap: WARNING :zap:                                                                                  |
+| :--------------------------------------------------------------------------------------------------- |
+| Do **NOT** fork this repository. Instead follow the instructions in this section to _fork_ the repo. |
 
-As described within the Predict instructions for the Classification Sprint, this code represents a _template_ from which to extend your own work. As such, in order to modify the template, you will need to **[fork](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)** this repository. Failing to do this will lead to complications when trying to work on the web application remotely.
+As described within the Predict instructions for the Classification Sprint, this code represents a _template_ from which to extend your own work using development branches.
 
-![Fork Repo](resources/imgs/fork-repo.png)
+![Clone Repo](resources/imgs/clone-repo.png)
 
-To fork the repo, simply ensure that you are logged into your GitHub account, and then click on the 'fork' button at the top of this page as indicated within the figure above.
-
-#### 2.2) Installing Requirements Packages from requirement file
-
-We recommend setting up a running instance on your own local machine.
+To clone the repo, simply ensure that you are logged into your GitHub account, and then click on the 'Code' button at the top of this page as indicated within the figure above.
+copy the _link_ and then navigate to your local machine opening the command line tool of your choice.
 
 To do this, follow the steps below by running the given commands within a Git bash (Windows), or terminal (Mac/Linux):
 
@@ -44,13 +41,17 @@ To do this, follow the steps below by running the given commands within a Git ba
 git clone https://github.com/1272371/DN3_Classifiers_Model.git
 ```
 
-2.  Ensure that you have the prerequisite Python libraries installed on your local machine:
+#### 2.2) Installing Requirements Packages from requirement file
+
+We recommend setting up a running instance on your own local machine.
+
+1.  Ensure that you have the prerequisite Python libraries installed on your local machine:
 
 ```bash
 pip install -r requirments.txt
 ```
 
-3.  Open Jupyter Notebook from this directory.
+2.  Open Jupyter Notebook from this directory.
 
 ```bash
 jupyter notebook
