@@ -4,25 +4,11 @@
 
 ## 1) Overview
 
-![Streamlit](resources/imgs/streamlit.png)
+This repository forms the basis bla bls bla bla
 
-This repository forms the basis of _Task 2_ for the **Classification Predict** within EDSA's Data Science course. It hosts template code which will enable students to deploy a basic [Streamlit](https://www.streamlit.io/) web application.
+As part of the predict, we are expected to expand on this base template; increasing the number of available models, user data exploration capabilities, and general Streamlit functionality.
 
-As part of the predict, students are expected to expand on this base template; increasing the number of available models, user data exploration capabilities, and general Streamlit functionality.
-
-#### 1.1) What is Streamlit?
-
-[![What is an API](resources/imgs/what-is-streamlit.png)](https://youtu.be/R2nr1uZ8ffc?list=PLgkF0qak9G49QlteBtxUIPapT8TzfPuB8)
-
-If you've ever had the misfortune of having to deploy a model as an API (as was required in the Regression Sprint), you'd know that to even get basic functionality can be a tricky ordeal. Extending this framework even further to act as a web server with dynamic visuals, multiple responsive pages, and robust deployment of your models... can be a nightmare. That's where Streamlit comes along to save the day! :star:
-
-In its own words:
-
-> Streamlit ... is the easiest way for data scientists and machine learning engineers to create beautiful, performant apps in only a few hours! All in pure Python. All for free.
-
-> It’s a simple and powerful app model that lets you build rich UIs incredibly quickly.
-
-Streamlit takes away much of the background work needed in order to get a platform which can deploy your models to clients and end users. Meaning that you get to focus on the important stuff (related to the data), and can largely ignore the rest. This will allow you to become a lot more productive.
+#### 1.1) Problem Statement
 
 ##### Description of files
 
