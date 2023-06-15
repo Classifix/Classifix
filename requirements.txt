@@ -2,3 +2,7 @@ streamlit
 numpy
 pandas
 scikit-learn
+nltk
+gensim
+spacy
+wordcloud
