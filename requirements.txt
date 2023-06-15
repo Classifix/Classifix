@@ -6,3 +6,7 @@ nltk
 gensim
 spacy
 wordcloud
+matplotlib-venn
+spacy
+ploty
+xgboost
