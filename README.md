@@ -1,4 +1,4 @@
-# DN3 CLASSIFIERS (NOTEBOOK)
+# Classifix (NOTEBOOK)
 
 #### EXPLORE Data Science Academy Classification Predict
 
