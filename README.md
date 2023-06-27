@@ -17,6 +17,5 @@ The project will involve collecting and preprocessing novel tweet data related t
 - Ayanda Witbooi : https://github.com/MAWitbooi
 - Palesa Motsoahae :https://github.com/bontlepalesa
 
-####3) Problem Statement
 
 ![Explore Data Science Academy](resources/imgs/EDSA_logo.png)
